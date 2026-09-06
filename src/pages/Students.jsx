@@ -1,0 +1,10 @@
+function Students() {
+  return (
+    <div>
+      <h1>Students</h1>
+      <p>Student management page</p>
+    </div>
+  );
+}
+
+export default Students;
